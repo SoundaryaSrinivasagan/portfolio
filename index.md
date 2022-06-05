@@ -2,7 +2,7 @@
 # Soundarya Srinivasagan
 
 
-# Header 1
+# Introduction
 
 This is my future resume/portfolio
 
